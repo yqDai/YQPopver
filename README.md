@@ -45,5 +45,3 @@
 \ */<br>
 @property (nonatomic,assign) YQPopverAnimationType cancelAnimationType;<br><br><br>
 ![](https://github.com/yqDai/YQPopver/raw/master/YQPopver.gif)
-示例图
-=================
