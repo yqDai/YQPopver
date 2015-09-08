@@ -44,7 +44,6 @@
 \ * 点击取消时popView隐藏的动画类型，如果不设置默认为YQPopverAnimationTypeNone<br>
 \ */<br>
 @property (nonatomic,assign) YQPopverAnimationType cancelAnimationType;<br>
-<br><br>
 示例图
 =================
 ![](https://github.com/yqDai/YQPopver/raw/master/YQPopver.gif)
