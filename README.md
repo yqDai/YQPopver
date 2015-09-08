@@ -1,5 +1,5 @@
 # YQPopver<br>
-* 使用CoreAnimation制作的分享平台的各种特效<br>
+## 使用CoreAnimation制作的分享平台的各种特效<br>
 # 如何使用YQPopver
 * 手动导入：
   * 将`YQPopver`文件夹中的所有文件拽入项目中
